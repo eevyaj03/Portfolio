@@ -9,7 +9,7 @@
     <meta content="" name="description">
 
     <!-- Favicon -->
-    <link href="{{ asset('assets/img/favicon.ico') }}" rel="icon">
+    <link href="{{ asset('assetsfile/img/favicon.ico') }}" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -21,14 +21,14 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
     <!-- Libraries Stylesheet -->
-    <link href="{{ asset('assets/lib/animate/animate.min.css') }}" rel="stylesheet">
-    <link href="{{ asset('assets/lib/owlcarousel/assets/owl.carousel.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('assetsfile/lib/animate/animate.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('assetsfile/lib/owlcarousel/assets/owl.carousel.min.css') }}" rel="stylesheet">
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="{{ asset('assets/css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('assetsfile/css/bootstrap.min.css') }}" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet">
+    <link href="{{ asset('assetsfile/css/style.css') }}" rel="stylesheet">
 </head>
 
 <body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="51">
@@ -76,11 +76,11 @@
                         </div>
                         <div class="col-lg-4 d-flex justify-content-center justify-content-lg-end wow fadeInUp" data-wow-delay="0.3s">
                             <div class="owl-carousel screenshot-carousel">
-                                <img class="img-fluid" src="{{ asset('assets/img/screenshot-1.png') }}" alt="">
-                                <img class="img-fluid" src="{{ asset('assets/img/screenshot-2.png') }}" alt="">
-                                <img class="img-fluid" src="{{ asset('assets/img/screenshot-3.png') }}" alt="">
-                                <img class="img-fluid" src="{{ asset('assets/img/screenshot-4.png') }}" alt="">
-                                <img class="img-fluid" src="{{ asset('assets/img/screenshot-5.png') }}" alt="">
+                                <img class="img-fluid" src="{{ asset('assetsfile/img/screenshot-1.png') }}" alt="">
+                                <img class="img-fluid" src="{{ asset('assetsfile/img/screenshot-2.png') }}" alt="">
+                                <img class="img-fluid" src="{{ asset('assetsfile/img/screenshot-3.png') }}" alt="">
+                                <img class="img-fluid" src="{{ asset('assetsfile/img/screenshot-4.png') }}" alt="">
+                                <img class="img-fluid" src="{{ asset('assetsfile/img/screenshot-5.png') }}" alt="">
                             </div>
                         </div>
                     </div>
@@ -121,7 +121,7 @@
                         <a href="" class="btn btn-primary-gradient py-sm-3 px-4 px-sm-5 rounded-pill mt-3">Read More</a>
                     </div>
                     <div class="col-lg-6">
-                        <img class="img-fluid wow fadeInUp" data-wow-delay="0.5s" src="{{ asset('assets/img/about.png') }}">
+                        <img class="img-fluid wow fadeInUp" data-wow-delay="0.5s" src="{{ asset('assetsfile/img/about.png') }}">
                     </div>
                 </div>
             </div>
@@ -212,11 +212,11 @@
                     </div>
                     <div class="col-lg-4 d-flex justify-content-center justify-content-lg-end wow fadeInUp" data-wow-delay="0.3s">
                         <div class="owl-carousel screenshot-carousel">
-                            <img class="img-fluid" src="{{ asset('assets/img/screenshot-1.png') }}" alt="">
-                            <img class="img-fluid" src="{{ asset('assets/img/screenshot-2.png') }}" alt="">
-                            <img class="img-fluid" src="{{ asset('assets/img/screenshot-3.png') }}" alt="">
-                            <img class="img-fluid" src="{{ asset('assets/img/screenshot-4.png') }}" alt="">
-                            <img class="img-fluid" src="{{ asset('assets/img/screenshot-5.png') }}" alt="">
+                            <img class="img-fluid" src="{{ asset('assetsfile/img/screenshot-1.png') }}" alt="">
+                            <img class="img-fluid" src="{{ asset('assetsfile/img/screenshot-2.png') }}" alt="">
+                            <img class="img-fluid" src="{{ asset('assetsfile/img/screenshot-3.png') }}" alt="">
+                            <img class="img-fluid" src="{{ asset('assetsfile/img/screenshot-4.png') }}" alt="">
+                            <img class="img-fluid" src="{{ asset('assetsfile/img/screenshot-5.png') }}" alt="">
                         </div>
                     </div>
                 </div>
@@ -460,7 +460,7 @@
                 <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
                     <div class="testimonial-item rounded p-4">
                         <div class="d-flex align-items-center mb-4">
-                            <img class="img-fluid bg-white rounded flex-shrink-0 p-1" src="{{ asset('assets/img/testimonial-1.jpg') }}" style="width: 85px; height: 85px;">
+                            <img class="img-fluid bg-white rounded flex-shrink-0 p-1" src="{{ asset('assetsfile/img/testimonial-1.jpg') }}" style="width: 85px; height: 85px;">
                             <div class="ms-4">
                                 <h5 class="mb-1">Client Name</h5>
                                 <p class="mb-1">Profession</p>
@@ -477,7 +477,7 @@
                     </div>
                     <div class="testimonial-item rounded p-4">
                         <div class="d-flex align-items-center mb-4">
-                            <img class="img-fluid bg-white rounded flex-shrink-0 p-1" src="{{ asset('assets/img/testimonial-2.jpg') }}" style="width: 85px; height: 85px;">
+                            <img class="img-fluid bg-white rounded flex-shrink-0 p-1" src="{{ asset('assetsfile/img/testimonial-2.jpg') }}" style="width: 85px; height: 85px;">
                             <div class="ms-4">
                                 <h5 class="mb-1">Client Name</h5>
                                 <p class="mb-1">Profession</p>
@@ -494,7 +494,7 @@
                     </div>
                     <div class="testimonial-item rounded p-4">
                         <div class="d-flex align-items-center mb-4">
-                            <img class="img-fluid bg-white rounded flex-shrink-0 p-1" src="{{ asset('assets/img/testimonial-3.jpg') }}" style="width: 85px; height: 85px;">
+                            <img class="img-fluid bg-white rounded flex-shrink-0 p-1" src="{{ asset('assetsfile/img/testimonial-3.jpg') }}" style="width: 85px; height: 85px;">
                             <div class="ms-4">
                                 <h5 class="mb-1">Client Name</h5>
                                 <p class="mb-1">Profession</p>
@@ -511,7 +511,7 @@
                     </div>
                     <div class="testimonial-item rounded p-4">
                         <div class="d-flex align-items-center mb-4">
-                            <img class="img-fluid bg-white rounded flex-shrink-0 p-1" src="{{ asset('assets/img/testimonial-4.jpg') }}" style="width: 85px; height: 85px;">
+                            <img class="img-fluid bg-white rounded flex-shrink-0 p-1" src="{{ asset('assetsfile/img/testimonial-4.jpg') }}" style="width: 85px; height: 85px;">
                             <div class="ms-4">
                                 <h5 class="mb-1">Client Name</h5>
                                 <p class="mb-1">Profession</p>
@@ -655,14 +655,14 @@ s
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="{{ asset('assets/lib/wow/wow.min.js') }}"></script>
-    <script src="{{ asset('assets/lib/easing/easing.min.js') }}"></script>
-    <script src="{{ asset('assets/lib/waypoints/waypoints.min.js') }}"></script>
-    <script src="{{ asset('assets/lib/counterup/counterup.min.js') }}"></script>
-    <script src="{{ asset('assets/lib/owlcarousel/owl.carousel.min.js') }}"></script>
+    <script src="{{ asset('assetsfile/lib/wow/wow.min.js') }}"></script>
+    <script src="{{ asset('assetsfile/lib/easing/easing.min.js') }}"></script>
+    <script src="{{ asset('assetsfile/lib/waypoints/waypoints.min.js') }}"></script>
+    <script src="{{ asset('assetsfile/lib/counterup/counterup.min.js') }}"></script>
+    <script src="{{ asset('assetsfile/lib/owlcarousel/owl.carousel.min.js') }}"></script>
 
     <!-- Template Javascript -->
-    <script src="{{ asset('assets/js/main.js') }}"></script>
+    <script src="{{ asset('assetsfile/js/main.js') }}"></script>
 </body>
 
 </html>
